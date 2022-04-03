@@ -1,0 +1,8 @@
+F:\mega\semmester2\oop\week2\PD\EMS1\obj\Debug\EMS1.csproj.AssemblyReference.cache
+F:\mega\semmester2\oop\week2\PD\EMS1\obj\Debug\EMS1.csproj.SuggestedBindingRedirects.cache
+F:\mega\semmester2\oop\week2\PD\EMS1\obj\Debug\EMS1.csproj.CoreCompileInputs.cache
+F:\mega\semmester2\oop\week2\PD\EMS1\bin\Debug\EMS1.exe.config
+F:\mega\semmester2\oop\week2\PD\EMS1\bin\Debug\EMS1.exe
+F:\mega\semmester2\oop\week2\PD\EMS1\bin\Debug\EMS1.pdb
+F:\mega\semmester2\oop\week2\PD\EMS1\obj\Debug\EMS1.exe
+F:\mega\semmester2\oop\week2\PD\EMS1\obj\Debug\EMS1.pdb
